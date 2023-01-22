@@ -2,9 +2,9 @@
   "name": "parcel-project-template",
   "version": "2.0.0",
   "description": "",
-  "homepage": "https://goitacademy.github.io/goit-js-hw-10",
+  "homepage": "https://InhaKr.github.io/goit-js-hw-10",
   "scripts": {
-    "start": "parcel src/*.html",
+    "start": "parcel src/*.html -p 5505 --open",
     "build": "parcel build src/*.html --public-url /goit-js-hw-10/"
   },
   "repository": {
@@ -20,7 +20,7 @@
   "dependencies": {
     "lodash.debounce": "^4.0.8",
     "modern-normalize": "^1.1.0",
-    "notiflix": "^3.2.6"
+    "notiflix": "^3.2.5"
   },
   "devDependencies": {
     "@parcel/transformer-sass": "^2.6.0",
