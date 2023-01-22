@@ -14,7 +14,7 @@ body {
 
 
 
-.country-list,
+/* .country-list,
 .country-info {
   display: flex;
   flex-direction: column;
@@ -77,4 +77,4 @@ img+p {
   font-size: 0.875rem;
   box-shadow: inset -2px -2px 6px rgba(255, 255, 255, 0.1),
     inset 2px 2px 6px rgba(0, 0, 0, 0.75);
-}
+} */
